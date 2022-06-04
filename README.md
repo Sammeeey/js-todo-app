@@ -1,7 +1,7 @@
 # js-todo-app
 Basic vanilla JavaScript todo app
 
-My first own implemented JavaScript...
+My first own implemented JavaScript. - **I always appreciate [feedback!🤗](https://github.com/Sammeeey)**
 
 Based on [Dev Ed's YouTube Tutorial](https://www.youtube.com/watch?v=Ttf3CEsEwMQ) but not completely the same.
 
